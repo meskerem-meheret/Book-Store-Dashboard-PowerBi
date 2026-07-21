@@ -94,3 +94,20 @@ This project presents an interactive **Power BI dashboard** that transforms Good
 - Build forecasting models for publication trends.
 - Integrate Goodreads API for real-time data updates.
 - Expand author and publisher performance metrics.
+
+  ---
+
+  ## Contact
+
+**GitHub**
+
+https://github.com/meskerem-meheret
+
+**LinkedIn**
+
+https://www.linkedin.com/in/meskerem-meheret-2b104a33a/
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository.
+
