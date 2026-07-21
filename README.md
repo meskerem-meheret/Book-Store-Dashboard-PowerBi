@@ -97,7 +97,7 @@ This project presents an interactive **Power BI dashboard** that transforms Good
 
   ---
 
-  ## Contact
+## Contact
 
 **GitHub**
 
