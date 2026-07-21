@@ -51,6 +51,9 @@ This project presents an interactive **Power BI dashboard** that transforms Good
 ![DAX](https://img.shields.io/badge/DAX-1E90FF?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-8A2BE2?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF8C00?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-00BFA5?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-6A5ACD?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -71,14 +74,14 @@ This project presents an interactive **Power BI dashboard** that transforms Good
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](BookStoreDashboard.png)
 
 ---
 
 ## 📂 How to Use
 
 1. Download or clone this repository.
-2. Open the `.pbix` file using **Power BI Desktop**.
+2. Open the `Book Store.pbix` file using **Power BI Desktop**.
 3. Load the provided dataset if prompted.
 4. Explore the interactive visuals to analyze publication trends, authors, publishers, languages, and reader engagement.
 
